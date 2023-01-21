@@ -1,16 +1,15 @@
 ![FlameIT - Immersion Cooling](https://statics.flameit.io/img/flameit-www-banner-960x200.png "FlameIT - Immersion Cooling")
 
-## Community requests, issues and questions
+## [Community Tickets](https://github.com/flameit-os/tickets/issues)
 
-This is our community ticket handling space.
 
-Please visit this page [New FlameIT Ticket](https://github.com/flameit-os/tickets/issues/new) to raise new:
+Please visit this page [New Ticket](https://github.com/flameit-os/tickets/issues/new) to raise new:
 
-* Request
-* Issue
-* Question
+* **Request**
+* **Issue**
+* **Question**
 
-Use proper **Label** to mark correct ticket type.
+Use proper **[Label](https://github.com/flameit-os/tickets/issues/labels)** to mark correct ticket type.
 
 All tickets are visible here: [https://github.com/flameit-os/tickets/issues](https://github.com/flameit-os/tickets/issues)
 
