@@ -1,4 +1,4 @@
-![FlameIT - Immersion Cooling](/img/flameit-www-banner.png "FlameIT - Immersion Cooling")
+![FlameIT - Immersion Cooling](https://statics.flameit.io/img/flameit-www-banner-960x200.png "FlameIT - Immersion Cooling")
 
 ## Community requests, issues and questions
 
@@ -18,7 +18,7 @@ All tickets are visible here: [https://github.com/flameit-os/tickets/issues](htt
 
 If You need any other help or You are looking for direct contact with us please visit our Discord server.
 
-<a href="https://bit.ly/flameit-discord">![FlameIT - Immersion Cooling Discord server](/img/discord-logo-blue.png "FlameIT - Immersion Cooling Discord server")</a>
+<a href="https://bit.ly/flameit-discord">![FlameIT - Immersion Cooling Discord server](https://statics.flameit.io/img/discord/discord-logo-blue.png "FlameIT - Immersion Cooling Discord server")</a>
 
 Join [FlameIT - Immersion Cooling - Discord](https://bit.ly/flameit-discord) community
 
