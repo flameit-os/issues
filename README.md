@@ -2,19 +2,21 @@
 
 ## Community requests, issues and questions
 
-If 
+This is our community ticket handling space.
 
 Please visit this page [New FlameIT Ticket](https://github.com/flameit-os/tickets/issues/new) to raise new:
 
-* Issue
 * Request
+* Issue
 * Question
 
-Use proper **Label** to mark ticket type.
+Use proper **Label** to mark correct ticket type.
 
-Tickets are here: [https://github.com/flameit-os/tickets/issues](https://github.com/flameit-os/tickets/issues)
+All tickets are visible here: [https://github.com/flameit-os/tickets/issues](https://github.com/flameit-os/tickets/issues)
 
 ## Discord
+
+If You need any other help or You are looking for direct contact with us please visit our Discord server.
 
 <a href="https://bit.ly/flameit-discord">![FlameIT - Immersion Cooling Discord server](/img/discord-logo-blue.png "FlameIT - Immersion Cooling Discord server")</a>
 
